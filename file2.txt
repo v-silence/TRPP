@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-File second Updated
-=======
-File second
-Upd
->>>>>>> branch2
+file2
